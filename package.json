@@ -19,7 +19,7 @@
     "http-errors": "~1.6.3",
     "moment": "^2.27.0",
     "morgan": "~1.9.1",
-    "pug": "2.0.0-beta11",
+    "pug": "3.0.1",
     "sequelize": "^6.2.4",
     "sequelize-cli": "^6.1.0",
     "sqlite3": "^5.0.0"
